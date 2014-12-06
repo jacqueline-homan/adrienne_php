@@ -1,0 +1,13 @@
+{
+    "name": "root/adrienne",
+    "authors": [
+        {
+            "name": "jacqueline-homan",
+            "email": "jacquelinehoman7@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "symfony/yaml": "dev-master"
+    }
+}
